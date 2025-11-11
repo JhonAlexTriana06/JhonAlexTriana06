@@ -119,8 +119,7 @@
   <summary>Funciones</summary>
   <br>
   <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
+    implementación y desarrollo de aplicaciones y páginas web, incluyendo integración con bases de datos y pruebas de funcionalidad.
   </blockquote>
 </details>
 
