@@ -108,11 +108,12 @@
 </details>
 
 <details>
-  <summary>Redes Sociales</summary>
+  <summary>Contacto</summary>
   <br>
   <ul>
     <li><strong>Linkedin: https://www.linkedin.com/in/jhon-alex-triana-88b87a374/</li>
-	<li><strong>Instagram: </li>
+	<li><strong>Instagram: https://www.instagram.com/j4tb_07/</li>
+	<li><strong>Email: trianajhonalexander123@gmail.com</li>
   </ul>
 </details>
 
