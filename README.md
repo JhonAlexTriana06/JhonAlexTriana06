@@ -86,13 +86,14 @@
       <img width="30px" src="" alt="cop" title="Copilot"/>
     </kbd>
     <kbd>
-      <kbd>Operating System, Networking & Deployment</kbd>
+      <kbd>Operating System, Networking, Versionamiento & Cloud</kbd>
       <br>
       <br>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
 	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
       <img width="30px" src="" alt="cpt" title="Cisco Packet Tracer"/>
+      <img width="30px" src="" alt="azure" title="Azure"/>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
@@ -102,12 +103,11 @@
       <img width="30px" src="" alt="gitb" title="Git bash"/>
     </kbd>
     <kbd>
-      <kbd>Tools</kbd>
+      <kbd>IDEs / DevTools</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="" alt="azure" title="Azure"/>
       <img width="30px" src="" alt="netb" title="NetBeans"/>
 	  <img width="30px" src="" alt="xxam" title="XAMPP"/>
 	  <img width="30px" src="" alt="vb" title="VirtualBox"/>
