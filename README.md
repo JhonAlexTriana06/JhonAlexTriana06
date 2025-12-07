@@ -25,7 +25,7 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Cali, Colombia.
+ * @param {string} location - Colombia.
  * @param {string} languagues - Ingles, Español
  * @param {string} jobTitle - Tecnico en Programacion de Software.
  * @param {string} specialization - Desarrollo de software, diseño web y manejo de bases de datos.
@@ -34,7 +34,7 @@
  * @param {string} education - Estudiante de Programación de Software en el SENA (Colombia).
  * @param {string} approachable - Amable, respetuoso y fácil para trabajar en equipo.
  * @param {string} stength - Responsable, aprendo rápido y trabajo bien en grupo.
- * @param {string} weakness - A veces me pongo nervioso al hablar en público, pero estoy mejorando mi confianza.
+ * @param {string} weakness - Pena al hablar en público, pero mejorando mi confianza.
  */
 ```
 
@@ -43,7 +43,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>Herramientas</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -121,7 +121,7 @@
   <summary>Funciones</summary>
   <br>
   <blockquote>
-    implementación y desarrollo de aplicaciones y páginas web, incluyendo integración con bases de datos y pruebas de funcionalidad.
+Desarrollo de páginas web con HTML, CSS y JavaScript; la creación de aplicaciones en Java y Python; el diseño y administración de bases de datos relacionales en MySQL y PostgreSQL; la construcción de interfaces para sistemas administrativos; la implementación de validaciones y formularios; el consumo y prueba de APIs mediante Postman; y el apoyo en despliegues básicos en entornos cloud con Azure. Mis habilidades técnicas abarcan programación básica–intermedia en Python, Java, JavaScript y PHP, manejo de SQL, desarrollo front-end estructurado, pruebas de servicios REST, conocimientos iniciales en cloud computing y capacidad para analizar y resolver problemas técnicos de forma lógica y eficiente.
   </blockquote>
 </details>
 
