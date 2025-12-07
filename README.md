@@ -110,13 +110,18 @@
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
       <img width="30px" src="" alt="netb" title="NetBeans"/>
 	  <img width="30px" src="" alt="xxam" title="XAMPP"/>
-	  <img width="30px" src="" alt="vb" title="VirtualBox"/>
+	  <img width="30px" src="" alt="vbox" title="VirtualBox"/>
+	  <img width="30px" src="" alt="compo" title="Composer"/>
   </kbd>
      <kbd>
-      <kbd>Ofimática</kbd>
+      <kbd>Ofimática / Diseño</kbd>
       <br>
       <br>
 	  <img width="30px" src="" alt="office" title="Office 365"/>
+	  <img width="30px" src="" alt="figma" title="Figma"/>
+	  <img width="30px" src="" alt="moc" title="Mockitt"/>
+	  <img width="30px" src="" alt="adbexpres" title="Adobe Express"/>
+	  <img width="30px" src="" alt="canva" title="Canva"/>
   </kbd>
   </p>
 </div>
