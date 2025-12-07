@@ -27,11 +27,6 @@
  * @param {string} location - Colombia.
  * @param {string} languagues - Ingles, Español
  * @param {string} jobTitle - Tecnico en Programacion de Software.
- * @param {string} specialization - Desarrollo de software, diseño web y manejo de bases de datos.
- * @param {string} interests - Aprender nuevas tecnologías, trabajar en equipo e innovar en proyectos de software.
- * @param {string} hobbies - escuchar música y ver tutoriales tecnológicos.
- * @param {string} education - Estudiante de Programación de Software en el SENA (Colombia).
- * @param {string} approachable - Amable, respetuoso y fácil para trabajar en equipo.
  * @param {string} stength - Responsable, aprendo rápido y trabajo bien en grupo.
  * @param {string} weakness - Pena al hablar en público, pero mejorando mi confianza.
  */
@@ -114,6 +109,14 @@
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
       <img width="30px" src="" alt="azure" title="Azure"/>
       <img width="30px" src="" alt="netb" title="NetBeans"/>
+	  <img width="30px" src="" alt="xxam" title="XAMPP"/>
+	  <img width="30px" src="" alt="vb" title="VirtualBox"/>
+  </kbd>
+     <kbd>
+      <kbd>Ofimática</kbd>
+      <br>
+      <br>
+	  <img width="30px" src="" alt="office" title="Office 365"/>
   </kbd>
   </p>
 </div>
