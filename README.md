@@ -111,7 +111,8 @@
   <summary>Redes Sociales</summary>
   <br>
   <ul>
-    <li><strong>Agregar</li>
+    <li><strong>Linkedin: https://www.linkedin.com/in/jhon-alex-triana-88b87a374/</li>
+	<li><strong>Instagram: </li>
   </ul>
 </details>
 
