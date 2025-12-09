@@ -83,7 +83,7 @@
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1024px-Google_Gemini_icon_2025.svg.png" alt="gemini" title="Gemini"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grok-icon.svg/2056px-Grok-icon.svg.png" alt="grok" title="Grok"/>
-      <img width="30px" src="https://www.iconarchive.com/download/i133744/github/octicons/copilot-96.1024.png" alt="copi" title="Copilot"/>
+      <img width="30px" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/vector-icons/brand-github-copilot-vk23ppsnnf9anyi0su0al.png/brand-github-copilot-exww8nc3pn8ymqt6bq0zm.png?_a=DATAg1AAZAA0" alt="copi" title="Copilot"/>
     </kbd>
     <kbd>
       <kbd>Operating System, Networking, Versionamiento & Cloud</kbd>
