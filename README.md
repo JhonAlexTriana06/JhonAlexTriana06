@@ -48,7 +48,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg" alt="java" title="Java"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/php/php-original.svg" alt="php" title="PHP"/>
-	  <img width="30px" src="" alt="sql" title="SQL"/>
+	  <img width="30px" src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" alt="sql" title="SQL"/>
     </kbd>
     <kbd>
       <kbd>Back end / Frameworks</kbd>
@@ -81,9 +81,9 @@
       <br>
       <br>
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
-      <img width="30px" src="" alt="gemini" title="Gemini"/>
-      <img width="30px" src="" alt="grok" title="Grok"/>
-      <img width="30px" src="" alt="cop" title="Copilot"/>
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1024px-Google_Gemini_icon_2025.svg.png" alt="gemini" title="Gemini"/>
+      <img width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png" alt="grok" title="Grok"/>
+      <img width="30px" src="https://1000logos.net/wp-content/uploads/2023/11/Copilot-Logo.png" alt="copi" title="Copilot"/>
     </kbd>
     <kbd>
       <kbd>Operating System, Networking, Versionamiento & Cloud</kbd>
@@ -91,7 +91,7 @@
       <br>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
 	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git"/>
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="Git"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gitlab/gitlab-original.svg" alt="gitlab" title="Git lab"/>
       <img width="30px" src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="cpt" title="Cisco Packet Tracer"/>
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/putty/putty-original.svg" alt="putty" title="Putty"/>
@@ -103,7 +103,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
-      <img width="30px" src="" alt="gitb" title="Git bash"/>
+      <img width="30px" src="https://p7.hiclipart.com/preview/743/345/230/bash-git-computer-icons-installation-command-line-interface-github.jpg" alt="gitb" title="Git bash"/>
     </kbd>
     <kbd>
       <kbd>IDEs / DevTools</kbd>
@@ -112,18 +112,18 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/netbeans/netbeans-original.svg" alt="netb" title="NetBeans"/>
-	  <img width="30px" src="" alt="xxamp" title="XAMPP"/>
-	  <img width="30px" src="" alt="vbox" title="VirtualBox"/>
-	  <img width="30px" src="" alt="compo" title="Composer"/>
+	  <img width="30px" src="https://w7.pngwing.com/pngs/952/732/png-transparent-xampp-full-logo-tech-companies-thumbnail.png" alt="xxamp" title="XAMPP"/>
+	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" alt="vbox" title="VirtualBox"/>
+	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="compo" title="Composer"/>
   </kbd>
      <kbd>
       <kbd>Ofimática / Diseño</kbd>
       <br>
       <br>
-	  <img width="30px" src="" alt="office" title="Office 365"/>
+	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/500px-Microsoft_365_%282022%29.svg.png" alt="office" title="Office 365"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
-	  <img width="30px" src="" alt="moc" title="Mockitt"/>
-	  <img width="30px" src="" alt="adbexpres" title="Adobe Express"/>
+	  <img width="30px" src="https://cdn-us.modao.cc/cms/images/neveragain/mockitt-square.svg" alt="moc" title="Mockitt"/>
+	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Adobe_Express_logo_RGB_1024px.png" alt="adbexpres" title="Adobe Express"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/trello/trello-original.svg" alt="trello" title="Trello"/>
   </kbd>
