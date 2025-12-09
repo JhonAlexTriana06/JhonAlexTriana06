@@ -55,7 +55,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/django/django-plain.svg" alt="django" title="Django"/>
+      <img width="30px" src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" title="Django"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original.svg" alt="lv" title="Laravel"/>
     </kbd>
     <kbd>
