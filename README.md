@@ -118,7 +118,7 @@
 	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="compo" title="Composer"/>
   </kbd>
      <kbd>
-      <kbd>Ofimática / Diseño</kbd>
+      <kbd>Ofimática / Diseño / Diagramación</kbd>
       <br>
       <br>
 	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Microsoft_365_%282022%29.svg/500px-Microsoft_365_%282022%29.svg.png" alt="office" title="Office 365"/>
@@ -127,6 +127,7 @@
 	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Adobe_Express_logo_RGB_1024px.png" alt="adbexpres" title="Adobe Express"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/trello/trello-original.svg" alt="trello" title="Trello"/>
+	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dia.svg/1024px-Dia.svg.png" alt="dia" title="DIA"/>
   </kbd>
   </p>
 </div>
