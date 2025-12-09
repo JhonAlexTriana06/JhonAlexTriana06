@@ -74,8 +74,6 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="PostgreSQL"/>
       <img width="30px" src="https://icon-library.com/images/azure-icon/azure-icon-11.jpg" alt="azuresql" title="Azure SQL"/>
     </kbd>
-	<kbd>
-    <br>
     <br>
     <kbd>
       <kbd>Automatización / IA</kbd>
