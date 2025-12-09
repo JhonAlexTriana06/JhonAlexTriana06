@@ -48,7 +48,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg" alt="java" title="Java"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/php/php-original.svg" alt="php" title="PHP"/>
-	  <img width="30px" src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" alt="sql" title="SQL"/>
+	  <img width="30px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" alt="sql" title="SQL"/>
     </kbd>
     <kbd>
       <kbd>Back end / Frameworks</kbd>
@@ -82,8 +82,8 @@
       <br>
       <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1024px-Google_Gemini_icon_2025.svg.png" alt="gemini" title="Gemini"/>
-      <img width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/grok-ai-icon.png" alt="grok" title="Grok"/>
-      <img width="30px" src="https://1000logos.net/wp-content/uploads/2023/11/Copilot-Logo.png" alt="copi" title="Copilot"/>
+      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Grok-icon.svg/2056px-Grok-icon.svg.png" alt="grok" title="Grok"/>
+      <img width="30px" src="https://www.iconarchive.com/download/i133744/github/octicons/copilot-96.1024.png" alt="copi" title="Copilot"/>
     </kbd>
     <kbd>
       <kbd>Operating System, Networking, Versionamiento & Cloud</kbd>
@@ -103,7 +103,7 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
-      <img width="30px" src="https://p7.hiclipart.com/preview/743/345/230/bash-git-computer-icons-installation-command-line-interface-github.jpg" alt="gitb" title="Git bash"/>
+      <img width="30px" src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" alt="gitb" title="Git bash"/>
     </kbd>
     <kbd>
       <kbd>IDEs / DevTools</kbd>
@@ -112,7 +112,7 @@
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/netbeans/netbeans-original.svg" alt="netb" title="NetBeans"/>
-	  <img width="30px" src="https://w7.pngwing.com/pngs/952/732/png-transparent-xampp-full-logo-tech-companies-thumbnail.png" alt="xxamp" title="XAMPP"/>
+	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/XAMPP_Logo.png" alt="xxamp" title="XAMPP"/>
 	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/VirtualBox_2024_Logo.svg/1200px-VirtualBox_2024_Logo.svg.png" alt="vbox" title="VirtualBox"/>
 	  <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/26/Logo-composer-transparent.png" alt="compo" title="Composer"/>
   </kbd>
