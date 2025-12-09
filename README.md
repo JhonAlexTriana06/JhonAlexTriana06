@@ -46,8 +46,8 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/>
-	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azure/azure-original.svg" alt="java" title="Java"/>
-	  <img width="30px" src="" alt="php" title="PHP"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original-wordmark.svg" alt="java" title="Java"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/php/php-original.svg" alt="php" title="PHP"/>
 	  <img width="30px" src="" alt="sql" title="SQL"/>
     </kbd>
     <kbd>
@@ -56,7 +56,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
       <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>
-	  <img width="30px" src="" alt="lv" title="Laravel"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/laravel/laravel-original.svg" alt="lv" title="Laravel"/>
     </kbd>
     <kbd>
       <kbd>Front-end</kbd>
@@ -70,7 +70,7 @@
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="PostgreSQL"/>
     </kbd>
 	<kbd>
@@ -91,9 +91,12 @@
       <br>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
 	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
+      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gitlab/gitlab-original.svg" alt="gitlab" title="Git lab"/>
       <img width="30px" src="" alt="cpt" title="Cisco Packet Tracer"/>
-      <img width="30px" src="" alt="azure" title="Azure"/>
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/putty/putty-original.svg" alt="putty" title="Putty"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vercel/vercel-original.svg" alt="vercel" title="Vercel"/>
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azure/azure-original.svg" alt="azure" title="Azure"/>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
@@ -108,8 +111,8 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
       <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="" alt="netb" title="NetBeans"/>
-	  <img width="30px" src="" alt="xxam" title="XAMPP"/>
+      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/netbeans/netbeans-original.svg" alt="netb" title="NetBeans"/>
+	  <img width="30px" src="" alt="xxamp" title="XAMPP"/>
 	  <img width="30px" src="" alt="vbox" title="VirtualBox"/>
 	  <img width="30px" src="" alt="compo" title="Composer"/>
   </kbd>
@@ -118,10 +121,11 @@
       <br>
       <br>
 	  <img width="30px" src="" alt="office" title="Office 365"/>
-	  <img width="30px" src="" alt="figma" title="Figma"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/figma/figma-original.svg" alt="figma" title="Figma"/>
 	  <img width="30px" src="" alt="moc" title="Mockitt"/>
 	  <img width="30px" src="" alt="adbexpres" title="Adobe Express"/>
-	  <img width="30px" src="" alt="canva" title="Canva"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/canva/canva-original.svg" alt="canva" title="Canva"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/trello/trello-original.svg" alt="trello" title="Trello"/>
   </kbd>
   </p>
 </div>
