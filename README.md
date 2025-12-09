@@ -93,7 +93,7 @@
 	  <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/gitlab/gitlab-original.svg" alt="gitlab" title="Git lab"/>
-      <img width="30px" src="" alt="cpt" title="Cisco Packet Tracer"/>
+      <img width="30px" src="https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png" alt="cpt" title="Cisco Packet Tracer"/>
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/putty/putty-original.svg" alt="putty" title="Putty"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vercel/vercel-original.svg" alt="vercel" title="Vercel"/>
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azure/azure-original.svg" alt="azure" title="Azure"/>
