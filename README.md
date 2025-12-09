@@ -46,7 +46,7 @@
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="JavaScript"/> 
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/>
-	  <img width="30px" src="" alt="java" title="Java"/>
+	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azure/azure-original.svg" alt="java" title="Java"/>
 	  <img width="30px" src="" alt="php" title="PHP"/>
 	  <img width="30px" src="" alt="sql" title="SQL"/>
     </kbd>
