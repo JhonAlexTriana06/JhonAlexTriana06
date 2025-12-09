@@ -72,7 +72,7 @@
       <br>
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="PostgreSQL"/>
-      <img width="30px" src="https://www.vhv.rs/dpng/d/561-5615364_icon-azure-sql-database-hd-png-download.png" alt="azuresql" title="Azure SQL"/>
+      <img width="30px" src="https://e7.pngegg.com/pngimages/105/17/png-clipart-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-blue-text-thumbnail.png" alt="azuresql" title="Azure SQL"/>
     </kbd>
 	<kbd>
     <br>
