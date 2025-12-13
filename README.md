@@ -105,7 +105,7 @@
       <img width="30px" src="https://mccarter.gallerycdn.vsassets.io/extensions/mccarter/start-git-bash/1.2.1/1499505567572/Microsoft.VisualStudio.Services.Icons.Default" alt="gitb" title="Git bash"/>
     </kbd>
     <kbd>
-      <kbd>IDEs / DevTools</kbd>
+      <kbd>IDEs / DevTools / APIs</kbd>
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
