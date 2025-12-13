@@ -95,6 +95,7 @@
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/putty/putty-original.svg" alt="putty" title="Putty"/>
 	  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/vercel/vercel-original.svg" alt="vercel" title="Vercel"/>
       <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/azure/azure-original.svg" alt="azure" title="Azure"/>
+      <img width="30px" src="https://cloudinary-res.cloudinary.com/image/upload/website/cloudinary_web_favicon.png" alt="cloudi" title="Cloudinary"/>
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
