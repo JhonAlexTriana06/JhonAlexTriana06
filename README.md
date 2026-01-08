@@ -28,7 +28,6 @@
  * @param {string} languagues - Ingles, Español
  * @param {string} jobTitle - Tecnico en Programacion de Software.
  * @param {string} stength - Responsable, aprendo rápido y trabajo bien en grupo.
- * @param {string} weakness - Pena al hablar en público, pero mejorando mi confianza.
  */
 ```
 
